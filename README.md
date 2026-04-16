@@ -29,7 +29,7 @@ The problem is to analyze tweets related to Claude and classify them into positi
      - Logistic Regression  
      - SVM
        
-6. Evaluation
+4. Evaluation
    - Used precision, recall, and F1-score  
    - Compared performance of all models 
 
